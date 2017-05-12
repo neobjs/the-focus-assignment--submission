@@ -1,0 +1,314 @@
+@font-face {
+font-family: 'Pacifico Regular'; src: url(../fonts/Pacifico/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2);
+}
+
+@font-face {
+font-family: 'Raleway Light'; src: url(../fonts/Raleway/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2);
+}
+
+@font-face {
+font-family: 'Raleway Regular'; src: url(../fonts/Raleway/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2);
+}
+
+@font-face {
+font-family: 'Raleway SemiBold'; src: url(../fonts/Raleway/xkvoNo9fC8O2RDydKj12bwzyDMXhdD8sAj6OAJTFsBI.woff2);
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1600px;
+}
+
+body {
+    margin: 0px;
+}
+
+#focus {
+    color: black;
+    font-family: 'Pacifico Regular', "pacifico";
+    font-size: 70px;
+    font-weight: 100;
+    padding-top: 110px;
+    padding-left: 640px;}
+
+#focus a:hover{
+    color: lightgray;
+    transition: all 0.5s ease;
+    
+}
+
+header {
+    height: 700px;
+    background-image: url(../img/large-banner-image.png);}
+
+
+header h2 {
+    color: black;
+    font-family: 'Raleway Light', sans-serif;
+    font-size: 36px;
+    padding-top: 60px;
+    padding-left: 445px;
+}
+   
+#arrow {
+    padding-top: 53px;
+    padding-left: 735px;
+}
+
+#iphone {
+    padding-top: 50px;
+    padding-left: 535px;
+}
+
+
+section {
+    height: 500px;
+    background-color: #f4f4f4;
+}
+
+section h4 {color: 222;
+            font-size: 22px;
+            font-family: 'Raleway Semibold';
+
+    
+}
+
+section p {
+    font-family: 'helvetica neue', 'helvetica';
+    font-size: 16px;
+    color: #848484;
+    padding-top: 20px;
+    line-height: 1.5em;
+}
+
+#featureleft {
+    padding-top: 50px;  
+    margin-right: 1040px;
+    margin-left: 235px;
+    
+    
+
+    
+}
+
+#featureleft2 {
+    padding-top: 54px;
+    
+}
+
+#featureright2{
+    padding-top: 55px;
+}
+
+#featureright{
+    margin-right: 280px;
+    margin-left: 990px;
+    margin-top: -277px;
+    padding: 1px;
+}
+
+a:link, a:visited, a:hover {
+    text-decoration: none;
+    color: #222222;
+    
+}
+
+#dot1 {
+    margin-left: 808px;
+    margin-right:645px;
+    margin-top: -605px;
+    
+    }
+
+#line {
+    margin-left: 825px; 
+    margin-top: -20px;
+    margin-right: 500px;
+}
+
+
+#dot2 {
+    margin-top: 60px;
+    margin-left:680px;
+    margin-right: 775px;
+}
+
+#mouse {
+    margin-left: 820px;
+    margin-top: -108px;
+    margin-right: 640px;
+}   
+
+#dot3 {
+    margin-left: 810px;
+    margin-top: 79px;
+    margin-right: 630px;
+  
+}
+
+
+#dot4 {
+    margin-left: 680px;
+    margin-right: 770px;
+    margin-top:-35px
+    
+}
+
+aside {height: 427px;
+        background-color: #e3e3e3;
+        }
+
+aside h4{ 
+    color: 222;
+    font-size: 22px;
+    font-family: 'Raleway Semibold'}
+
+aside h4 {margin-left: 170px;
+            margin-right: 770px;
+          padding-top: 45px;
+}
+
+aside p {margin-left: 170px;
+        margin-right: 850px;
+        padding-top: 25px;
+        font-family: 'helvetica neue', 'helvetica';
+        font-size: 16px;
+        color: #848484;
+        line-height: 1.5em;}
+
+aside ul{
+        margin-left: 170px;
+        padding-top: 20px;
+    
+}
+#video{
+    margin-left: 890px;
+    margin-right: 127px;
+    margin-top: -225px;
+}
+
+#play{margin-top: -80px;
+    margin-left: 910px;}
+
+#bar {margin-top: -46px;
+    margin-left: 995px;}
+
+#android{
+    padding-left: 15px;
+}
+
+#windows{
+    padding-left: 15px;
+}
+
+#quote{
+    height: 180px;
+}
+
+#quote h2{
+    font-family: "raleway regular", sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 55px;}
+
+#quote p{
+    font-family: "helvetica";
+    font-size: 14px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+#blogger{
+    font-weight: 700
+}
+
+#cursor {
+    margin-left: 380px;
+    margin-top: -30px;
+}
+
+#photos{
+    height: 320px;
+    background-image: url(../img/people.png);
+    
+}
+
+#active {margin-left: 915px;
+        margin-top: 80px}
+
+#cursor2 {
+    margin-left: -70px;
+}
+
+#footer1 {
+    height: 240px;
+}
+
+#footer1 h3{
+    font-family: "Raleway Semibold";
+    font-size: 24px;
+    margin-left: 580px;
+    padding: 58px;
+}
+
+#footer1 p{
+    font-family: "Helvetica Neue", helvetica;
+    font-size: 16px;
+    margin-left: 515px;
+    margin-top: -40px;
+    color: #848484;
+}
+
+#links{margin-left: 630px;
+        padding-top: 30px;
+        margin-right: 580px;}
+
+#footer1 a{
+    padding-top: 25px;
+}
+
+#icon {margin-left: 735px;
+        margin-top: -15px;
+        margin-right: 720px;}
+
+#facebook {
+    padding-left: 7px 
+}
+
+#pinterest{
+    padding-left: 7px
+}
+
+#google{
+    padding-left: 7px;
+}
+
+#linkedin{
+    padding-left: 7px;
+}
+
+#youtube{
+    padding-left: 7px;
+}
+
+#footer2 {
+    height: 130px;
+    background-color: #e3e3e3;
+
+}
+
+
+#footer2 a{
+    margin-right: 27px;
+    font-family: "helvetica neue", "helvetica";
+    font-size: 16px;
+    color: #848484;
+    
+    }
+
+#footer2 a:hover{
+    transition: all 0.5s ease;
+    color: white;
+}
+#link2 {padding-top: 55px;
+        margin-left: 487px}
